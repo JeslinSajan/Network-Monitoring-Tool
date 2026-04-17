@@ -250,7 +250,10 @@ sudo python3 src/main.py
   - Alerting via Slack/email
 
 ## 📷 ScreenShots
-  
+<img width="1080" height="1166" alt="Screenshot_20260417_185506" src="https://github.com/user-attachments/assets/e005e2b7-7153-4f02-b69c-8362442acaba" />
+
+<img width="1080" height="1242" alt="Screenshot_20260417_1855068" src="https://github.com/user-attachments/assets/374c8029-78f1-4fb2-b212-7eec6cc11419" />
+
 
 ## 📦 Code Quality
 
