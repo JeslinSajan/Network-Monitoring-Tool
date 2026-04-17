@@ -280,7 +280,7 @@ This project is provided as-is for educational and research purposes.
 
 ## 👨‍💻 Author
 
-Developed as a junior SOC tool prototype for network security analysis.
+Developed as a Aspiring Networking Engineer tool prototype for network security analysis.
 
 ---
 
