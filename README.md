@@ -249,6 +249,9 @@ sudo python3 src/main.py
   - Integration with SIEM systems
   - Alerting via Slack/email
 
+## 📷 ScreenShots
+  
+
 ## 📦 Code Quality
 
 - **Modular Design**: Separation of concerns (capture, analysis, detection, logging)
